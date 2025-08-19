@@ -42,6 +42,7 @@ I am a Computer Engineering Graduate (2024) with practical experience in full-st
 ---
 
 ## 📫 Contact
-- **Email:** [joshidurgesh2001@gmail.com](mailto:joshidurgesh2001@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/durgesh2001](https://www.linkedin.com/in/durgesh2001)  
-- **GitHub:** [github.com/Durgesh-Joshi](https://github.com/Durgesh-Joshi)  
+
+- [Email](mailto:joshidurgesh2001@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/durgesh2001)  
+- [GitHub](https://github.com/Durgesh-Joshi)  
