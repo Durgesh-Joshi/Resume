@@ -7,7 +7,7 @@ I am a Computer Engineering Graduate (2024) with practical experience in full-st
 
 ## 🎓 Education
 - **Bachelor of Engineering (Computer Engineering)** – Loknete Gopinathji Munde Institute of Engineering, Nashik (2020–2024) | CGPA: 8.19  
-- **Diploma in Computer Engineering** – Gokhale Polytechnic, Nashik (2018–2021) | 92.35%  
+- **Diploma in Computer Engineering** – Gokhale Polytechnic, Nashik (2017–2021) | 92.35%  
 
 ---
 
