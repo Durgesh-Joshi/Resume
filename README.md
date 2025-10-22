@@ -1,4 +1,4 @@
-# Durgesh Joshi – Resume
+# Durgesh Joshi
 
 ## 📌 About
 I am a Computer Engineering Graduate (2024) with practical experience in full-stack development through internships and academic projects. My work includes developing web applications with **Java, Spring Boot, React.js, Node.js, SQL, and MongoDB**, along with experience in **API testing (Postman, Thunder Client)** and basic cloud deployment on **AWS**.  
